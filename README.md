@@ -1,5 +1,7 @@
 # Data Science Portfolio
+
 Takashi Nishikawa
+
 [LinkedIn](__) | [Resume](__)
 
 ## Projects
