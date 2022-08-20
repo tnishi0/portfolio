@@ -6,7 +6,7 @@ Takashi Nishikawa
 
 ## Selected Projects
 
-### [Is There Evidence of Climate Change in the US Tornado Statistics?](../../../us_tornado_stats)
+### [Is there evidence of climate change in the US tornado statistics?](../../../us_tornado_stats)
 I visualized and analyzed tornado data from the National Centers of Environmental Information to validate statements in National Geographic online educational articles about long-term tornado trends.
 
 ### [Building Product Recommendation Engine From Retailrocket Shopping Cart Data](../../../product_recom_eng)
