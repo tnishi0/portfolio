@@ -2,7 +2,7 @@
 
 Takashi Nishikawa
 
-[LinkedIn](__) | [Resume](__)
+[LinkedIn](https://www.linkedin.com/in/takashinishikawa/) | [Resume](__)
 
 ## Selected Projects
 
