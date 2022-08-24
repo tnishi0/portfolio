@@ -1,10 +1,10 @@
 # Data Science Portfolio
 
-Takashi Nishikawa
+### Takashi Nishikawa
 
 [LinkedIn](https://www.linkedin.com/in/takashinishikawa/) | [Resume](__)
 
-## Selected Projects
+## Projects
 
 ### [Is there evidence of climate change in the US tornado statistics?](../../../us_tornado_stats)
 I visualized and analyzed tornado data from the National Centers of Environmental Information to validate statements in National Geographic online educational articles about long-term tornado trends.
