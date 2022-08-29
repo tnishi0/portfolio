@@ -2,7 +2,7 @@
 
 ### Takashi Nishikawa
 
-[LinkedIn](https://www.linkedin.com/in/takashinishikawa/) | [Resume](__)
+[LinkedIn](https://www.linkedin.com/in/takashinishikawa/) | [Resume](Resume_Takashi_Nishikawa.pdf)
 
 ## Projects
 
