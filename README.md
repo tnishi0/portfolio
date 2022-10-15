@@ -17,6 +17,6 @@ I developed a new clustering algorithm that combines the visual pattern recognit
 
 ## Data visualization samples
 
-* Visualizations of node connectivity imbalances for 3 real-world networks
+* [Visualizations of node connectivity imbalances for 3 real-world networks](vis_imbalances_networks.md)
 * [Cascade vulnerability and robustness of the North American power grid](https://youtu.be/yEGBc5NO67w) (2-min video)
 * [Network visualization map of the US electric grid](net_vis_map_US_grid.md)
