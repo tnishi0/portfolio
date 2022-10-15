@@ -1,4 +1,4 @@
-# Visualizations of node connectivity imbalances
+# Visualizations of node connectivity imbalances in real-world networks
 
 ![vis_imbalances_networks.png](vis_imbalances_networks.png)
 
