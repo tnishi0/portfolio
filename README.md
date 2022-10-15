@@ -14,3 +14,9 @@ I built a prototype recommendation engine based on a machine learning model trai
 
 ### [Clustering algorithm based on projections and visual analytics approach](../../../projection_based_clustering)
 I developed a new clustering algorithm that combines the visual pattern recognition ability of humans with the power of automated processing.
+
+## Data visualization samples
+
+* Visualizations of node connectivity imbalances for 3 real-world networks
+* [Cascade vulnerability and robustness of the North American power grid](https://youtu.be/yEGBc5NO67w) (2-min video)
+* [Network visualization map of the US electric grid]()
